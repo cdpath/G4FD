@@ -1,0 +1,7 @@
+livekit-agents>=0.11.2
+livekit-plugins-openai>=0.10.6
+livekit-plugins-deepgram>=0.6.9
+livekit-plugins-silero>=0.7.3
+livekit-plugins-cartesia
+livekit-plugins-elevenlabs
+python-dotenv~=1.0
